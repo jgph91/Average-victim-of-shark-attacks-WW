@@ -9,7 +9,7 @@ In order to develop the profile I have used to answer the following�
     - Is the USA the country with the highest number of sharks attacks?
     - Are most of the sharks attacks fatal for their victims?
 
-The original data is included in a csv file in the input folder, also the functions used for cleaning the data are included in the functions.py file sotred in the src folder.
+The original data is included in a csv file in the input folder. Also the functions used for cleaning the data are included in the functions.py file stored in the src folder and the data cleaning is stores in the ipynb file "Sharksattacks".
 
 Data study
 
