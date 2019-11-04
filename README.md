@@ -1,6 +1,6 @@
 # Data-cleaning-project "Sharks attacks"
 
-The aim of this investigation is to try create a profile of the average victim of a shark attack.The database used for this investigation its from kaggle "Global Shark Attack Incidents" (https://www.kaggle.com/teajay/global-shark-attacks/version/1). 
+The aim of this report is to create a profile of the average victim of a shark attack.The database used for this report its from kaggle "Global Shark Attack Incidents" (https://www.kaggle.com/teajay/global-shark-attacks/version/1). 
 
 In order to develop the profile I have used to answer the following questions:
 
