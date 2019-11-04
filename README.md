@@ -32,4 +32,4 @@ Finally, a csv file with the cleaned data is included in the output folder.
 
 Conclusion
 
-The profile of average victim of a shark attack its a young male of 27 years old, attacked when he was surfing in the USA and he survived to the attack.
+The profile of average victim of a shark attack is a young male of 27 years old, attacked when he was surfing in the USA and he survived to the attack.
