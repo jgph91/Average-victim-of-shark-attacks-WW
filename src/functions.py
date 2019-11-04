@@ -104,13 +104,3 @@ def integer(text):
     return int(text)
 
 
-def activity_cleaner(text):
-    if "surf" or "Surf" in text:
-        text = "Surfing"
-    elif "swim" or "Swim" in text:
-        text = "Swimming"
-    elif "fishi" or "Fishi" in text:
-        text = "Fishing"
-    else:
-        text = "Other"
-    return text
