@@ -1,6 +1,8 @@
 import re
 
 def sex_filter(text):
+    '''Standarizes the sex column'''
+
     dictionary = {'.':"Unknown", 
                 'F':'F',
                 'M':'M',
@@ -10,6 +12,8 @@ def sex_filter(text):
     return dictionary.get(text,text)
 
 def fatal_filter(text):
+    '''Standarize the fatal column'''
+
     dictionary = {'F':'Y',
                 'Y':'Y',
                 'UNKNOWN':'Unknown',
@@ -19,10 +23,9 @@ def fatal_filter(text):
                 'N ':'N'}
     return dictionary.get(text,text)
 
-def space_cleaner(text):
-    return text.strip()
-
 def age_cleaner(text):
+    '''Standarizes the age column'''
+    
     dictionary = {'"middle-age"':25,
                 '"young"':25,
                 ' ':"Unknown",
@@ -99,8 +102,5 @@ def age_cleaner(text):
                 "13 or 14":13}
     return dictionary.get(text,text)
 
-
-def integer(text):
-    return int(text)
 
 
