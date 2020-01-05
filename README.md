@@ -7,7 +7,7 @@ The aim of this project is to create a profile of the average victim of�
 
 ## Sources
 
-The database used for this report its from kaggle <a href="https://www.kaggle.com/teajay/global-shark-attacks/version/1">"Global Shark Attack Incidents"</a>, also it's included in the input folder.
+The database used for this report its from kaggle <a href="https://www.kaggle.com/teajay/global-shark-attacks/version/1">"Global Shark Attack Incidents"</a>, also it's included in the '''input''' folder.
 
 ## Hypothesis
 
