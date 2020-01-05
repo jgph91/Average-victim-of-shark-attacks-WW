@@ -3,9 +3,11 @@
 <a href="https://github.com/jgph91"><img src="./input/jaws.jpeg" title="Shark attacks" alt="Shark attacks"></a>
 <!-- [![Shark attacks](./input/jaws.jpg)](https://github.com/jgph91) -->
 
-> The aim of this project is to create a profile of the average victim of a shark attack. For this task I used pandas, jupyter notebook and matplotlib for the charts. 
-> The database used for this report its from kaggle "Global Shark Attack Incidents" (https://www.kaggle.com/teajay/global-shark-attacks/version/1), also it's included in the 'input' folder.
-> The process of data cleaning and the draw of conclusions its clearly explained in the 'Sharks attacks.ipynb' file.
+The aim of this project is to create a profile of the average victim of a shark attack. For this task I used pandas, jupyter notebook and matplotlib for the charts.
+
+## Sources
+
+The database used for this report its from kaggle "Global Shark Attack Incidents" (https://www.kaggle.com/teajay/global-shark-attacks/version/1), also it's included in the 'input' folder.
 
 ## Hypothesis
 
