@@ -7,7 +7,7 @@ The aim of this project is to create a profile of the average victim of�
 
 ## Sources
 
-The database used for this report its from kaggle "Global Shark Attack Incidents" (https://www.kaggle.com/teajay/global-shark-attacks/version/1), also it's included in the 'input' folder.
+The database used for this report its from kaggle <a href="https://www.kaggle.com/teajay/global-shark-attacks/version/1">"Global Shark Attack Incidents"</a>, also it's included in the input folder.
 
 ## Hypothesis
 
@@ -21,12 +21,12 @@ Below you can find the used hypothesis for developing the profile of the average
 
 ## Conclusion
 
-The average victim of a shark attack is a young male of 27 years old, attacked when he was surfing in the USA and he survived to the attack. The clean data its included in a csv folder, which its located in the 'output' folder.
+The average victim of a shark attack is a young male of 27 years old, attacked when he was surfing in the USA and he survived to the attack. The clean data its included in a csv folder, which its located in the output folder.
 
 ## Files included
 
-- 'Shark attacks.ipynb' -> jupyter notebook which contain all the data cleaning and its explanations.
-- 'requeriments.txt' -> md file containing all the modules used in this app.
-- 'src/functions.py' -> auxiliary py containing the functions used to clean the dataset.
-- 'input/GSAF5.csv' -> original dataset.
-- 'output/sharkattacks.csv' -> cleaned dataset.
+- Shark attacks.ipynb -> jupyter notebook which contain all the data cleaning and its explanations.
+- requeriments.txt -> md file containing all the modules used in this app.
+- src/functions.py -> auxiliary py containing the functions used to clean the dataset.
+- input/GSAF5.csv -> original dataset.
+- output/sharkattacks.csv -> cleaned dataset.
