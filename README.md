@@ -30,3 +30,10 @@ The average victim of a shark attack is a young male of 27 years o
 - src/functions.py -> auxiliary py containing the functions used to clean the dataset.
 - input/GSAF5.csv -> original dataset.
 - output/sharkattacks.csv -> cleaned dataset.
+
+## Contact info
+
+If you have any doubt please don't heisitate to contact with me:
+
+- email : jgph91@gmail.com
+- linkedin:  <a href="https://www.linkedin.com/in/javier-gomez-del-pulgar/?locale=en_US">"Javier Gómez del Pulgar"</a>
