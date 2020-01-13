@@ -33,7 +33,7 @@ The average victim of a shark attack is a young male of 27 years o
 
 ## Contact info
 
-If you have any doubt please don't heisitate to contact with me:
+If you have any doubt please don't heisitate to contact me:
 
 - email : jgph91@gmail.com
 - linkedin:  <a href="https://www.linkedin.com/in/javier-gomez-del-pulgar/?locale=en_US">Javier Gómez del Pulgar</a>
